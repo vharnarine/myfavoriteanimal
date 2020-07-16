@@ -1,0 +1,24 @@
+
+.h1 {
+    color: palevioletred;
+}
+.h1 {
+    margin-right: 20px
+}
+
+.paragraph {
+    color: teal;
+    width: 600px;
+    border: 1px solid green;
+    padding: 5px;
+    margin: 20px;
+}
+
+.body {
+    background: burlywood;
+}
+
+.image1 {
+    padding: 5px;
+    margin: 20px;
+}
